@@ -1,1 +1,1 @@
-This repository contains the explanatory Data Analysis of Superstore Sales 
+This repository contains the explanatory Data Analysis projects with different visualizations 
