@@ -1,1 +1,1 @@
-This repository contains the explanatory Data Analysis projects with different visualizations 
+This repository contains the explanatory Data Analysis project
